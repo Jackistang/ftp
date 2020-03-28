@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/CurrentThread.h
+muduo/base/Types.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/muduo/base/Types.h
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/Exception.h
+muduo/base/Types.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/muduo/base/Types.h
+exception
+-
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/Types.h
+stdint.h
+-
+string.h
+-
+string
+-
+assert.h
+-
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/tests/Exception_test.cc
+muduo/base/CurrentThread.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/tests/muduo/base/CurrentThread.h
+muduo/base/Exception.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/tests/muduo/base/Exception.h
+functional
+-
+vector
+-
+stdio.h
+-
+

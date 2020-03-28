@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/FileUtil.h
+muduo/base/noncopyable.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/muduo/base/noncopyable.h
+muduo/base/StringPiece.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/muduo/base/StringPiece.h
+sys/types.h
+-
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/StringPiece.h
+string.h
+-
+iosfwd
+-
+muduo/base/Types.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/muduo/base/Types.h
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/Types.h
+stdint.h
+-
+string.h
+-
+string
+-
+assert.h
+-
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/noncopyable.h
+
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/tests/FileUtil_test.cc
+muduo/base/FileUtil.h
+/media/jackis/_dde_data/Qt_projects/FTP-server-client/ftp/ftpserver/muduo/base/tests/muduo/base/FileUtil.h
+stdio.h
+-
+inttypes.h
+-
+
